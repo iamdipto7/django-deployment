@@ -26,7 +26,7 @@ SECRET_KEY = 'l&n=r!k8s&#hq4&e3se)1^g6mg28h7p=917f!q*(a+m^n94c=f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['iamdipto7.pythonanywhere.com']
+ALLOWED_HOSTS = ['iamdipto7.pythonanywhere.com',]
 
 
 # Application definition
